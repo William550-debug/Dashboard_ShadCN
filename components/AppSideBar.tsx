@@ -181,7 +181,7 @@ const items = [
                             <SidebarMenu>
                                 <SidebarMenuItem>
                                     <SidebarMenuButton asChild>
-                                        <Link href='/#'>
+                                        <Link href='#'>
                                             <Projector />
                                             See all projects
 
@@ -190,7 +190,7 @@ const items = [
                                     <SidebarMenuSub>
                                         <SidebarMenuSubItem>
                                             <SidebarMenuSubButton>
-                                                <Link href='/#'>
+                                                <Link href='#'>
                                                     Add Project
                                                 </Link>
                                             </SidebarMenuSubButton>
@@ -198,7 +198,7 @@ const items = [
 
                                         <SidebarMenuSubItem>
                                             <SidebarMenuSubButton>
-                                                <Link href='/#'>
+                                                <Link href='#'>
                                                     Add Category
                                                 </Link>
                                             </SidebarMenuSubButton>
